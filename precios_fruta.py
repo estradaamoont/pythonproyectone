@@ -7,7 +7,7 @@ numero de kilos de productos. si la fruta no esta en el diccionario debe mostrar
  manzana|0.80
  pera|0.85
  naranja|0.70"""
-
+print('Alfpo')
 print("Fruteria doña Mary\n")
 #este es un inventario de frutas disponibles.
 print("MENU")
